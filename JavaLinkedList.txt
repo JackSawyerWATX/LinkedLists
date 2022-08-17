@@ -1,0 +1,12 @@
+Common LinkedList methods:
+
+add : Inserts the supplied argument at a specified index.
+addFirst : Inserts the supplied argument into the starting position of 	the collection
+addLast : Appends the supplied argument to the end of the collection
+get : Returns are reference to an element at a specified index
+getFirst : Returns the first element of the collection
+getLast : Returns the last element of the collection
+clear : Removes all elements from the collection
+remove : Removes the element at a specified index or the first 	occurance of an object in the collection.
+removeFirst : Removes the first element of the collection
+removeLast : Removes the last element of the collection
